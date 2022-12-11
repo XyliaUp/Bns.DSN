@@ -1,0 +1,8 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<cluster-list>
+  <cluster type="game" cluster-id='1' dsn='DRIVER=SQL Server Native Client 11.0;SERVER=127.0.0.1;UID=sa;PWD=Lee4056;DATABASE=BlGame' />
+  <cluster type="game" cluster-id='2' dsn='DRIVER=SQL Server Native Client 11.0;SERVER=127.0.0.1;UID=sa;PWD=Lee4056;DATABASE=BlGame' />
+
+  <cluster type="management" cluster-id='1' dsn='DRIVER=SQL Server Native Client 11.0;SERVER=127.0.0.1;UID=sa;PWD=Lee4056;DATABASE=ManagementDB' />
+  <cluster type="management" cluster-id='2' dsn='DRIVER=SQL Server Native Client 11.0;SERVER=127.0.0.1;UID=sa;PWD=Lee4056;DATABASE=ManagementDB' />
+</cluster-list>
